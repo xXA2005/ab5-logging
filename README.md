@@ -36,3 +36,4 @@ func main() {
 ```
 
 <img src="./ss.png">
+give star on repo ok thanks
